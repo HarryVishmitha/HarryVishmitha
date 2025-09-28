@@ -101,6 +101,15 @@ Creative and detail-oriented **Web Developer** and **Graphic Designer** with a s
 
 ---
 
+### 🎯 Current Goals
+- 🛠️ Build and launch my own open-source PDF engine (PaperTail)
+- 🤖 Finish Stranger AI v2 with sentiment-based interaction
+- 🎓 Complete HND with Distinctions in all remaining units
+- 🏢 Join a software company where I can grow in Laravel + DevOps
+- 🌐 Launch my personal portfolio + blog
+
+---
+
 ### 🎮 Interests
 
 - 🎥 Watching movies & storytelling (Potterhead ⚡)
