@@ -268,6 +268,10 @@ Studying programming, databases, networking, cybersecurity, software development
   <img src="https://img.shields.io/badge/Gmail-vishmithathejan154-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
+<a href="https://wa.me/94781112388">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B94781112388-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
 <a href="https://github.com/HarryVishmitha">
   <img src="https://img.shields.io/badge/GitHub-HarryVishmitha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
