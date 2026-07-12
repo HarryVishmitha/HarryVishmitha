@@ -1,226 +1,285 @@
-<h1 align="center">Hi, I'm Thejan Vishmitha 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  🚀 Full-Stack Developer | 🎨 Graphic Designer | 🧠 Creative Technologist | 🎓 HND Computing Student
-</h3>
+# Hey, I'm Thejan Vishmitha 👋
 
-<p align="center">
-  📍 Ragama, Sri Lanka &nbsp;|&nbsp;
-  📧 <a href="mailto:vishmithathejan154@gmail.com">vishmithathejan154@gmail.com</a>
-</p>
+### Backend-Focused Developer · Graphic Designer · Creative Technologist
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF4A8F&center=true&vCenter=true&width=650&lines=Design+with+passion.;Code+with+precision.;Build+for+the+future.;Laravel+%2B+React+Developer.;Creative+Designer+%2B+Problem+Solver.">
-</p>
+Building secure, scalable, and practical digital products with  
+**Laravel, PHP, MySQL, React, Inertia.js, and modern UI/UX principles.**
 
----
+<br>
 
-## 👤 About Me
+<a href="mailto:vishmithathejan154@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-I’m **G.V.A. Thejan Vishmitha**, a Sri Lanka-based **developer-designer hybrid** passionate about building modern, useful, and visually powerful digital products.
+<a href="https://github.com/HarryVishmitha">
+  <img src="https://img.shields.io/badge/GitHub-HarryVishmitha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-I currently work at **Printair Advertising** as a **Graphic Designer & Web Developer**, where I combine creative design, branding, frontend development, backend systems, and real-world business problem-solving.
+<img src="https://komarev.com/ghpvc/?username=HarryVishmitha&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS" alt="Profile Views">
 
-My work focuses on building practical, scalable, and user-friendly systems using **Laravel, React, Inertia, Tailwind CSS, Bootstrap, MySQL**, and modern UI/UX principles.
+<br><br>
 
-> 🎯 **"Design with passion. Code with precision. Build for the future."**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D6CFF&center=true&vCenter=true&width=700&lines=Backend+Developer+with+a+Creative+Mindset;Building+Scalable+Laravel+Applications;Designing+Practical+Business+Systems;Turning+Real+Problems+into+Digital+Products" alt="Typing SVG">
 
----
-
-## 🧑‍💼 Professional Summary
-
-Creative and detail-oriented **Full-Stack Web Developer** and **Graphic Designer** with hands-on experience in developing real-world web platforms, admin dashboards, business systems, and marketing-focused digital experiences.
-
-I have experience working with **Laravel-based systems**, **React/Inertia dashboards**, **Tailwind and Bootstrap interfaces**, **database-driven applications**, and **Adobe Creative Cloud tools** for branding, print, and digital design.
-
-I enjoy solving business problems through software, improving user experiences, and building systems that are not just functional — but also clean, scalable, and visually engaging.
+</div>
 
 ---
 
-## 💼 Experience
+## 👨‍💻 About Me
 
-| Role | Organization | Duration | Description |
-|------|--------------|----------|-------------|
-| **Graphic Designer & Web Developer** | **Printair Advertising** | Oct 2023 – Present | Design promotional graphics, print materials, banners, posters, and digital assets while also developing and improving web-based systems using **Laravel, React, Inertia, Tailwind CSS, Bootstrap, MySQL**, and modern UI/UX practices. |
-| **Full-Stack Developer / Project Builder** | Personal & Client Projects | 2024 – Present | Building real-world platforms including property marketplace systems, quotation systems, admin dashboards, component packs, AI experiments, and business automation tools. |
+I’m **Thejan Vishmitha**, a backend-focused developer and graphic designer based in Sri Lanka.
 
----
+I enjoy building real-world systems that solve practical business problems. My main focus is developing secure, maintainable, and scalable applications using **Laravel, PHP, MySQL, React, and Inertia.js**.
 
-## 🚀 Featured Projects
+Alongside software development, I work professionally in graphic design, branding, print production, and digital content creation. This combination allows me to approach projects from both a technical and creative perspective.
 
-### 🖨️ Printair — Printing Business Website & Internal System
+```php
+<?php
 
-**Printair** is a real-world printing and advertising business platform where I work on both the creative and technical side.
-
-**My involvement includes:**
-
-- Designing promotional graphics, posters, banners, and print-ready artwork
-- Improving website UI/UX and product presentation
-- Planning and developing quotation, estimate, and admin-side features
-- Working with Laravel, React/Inertia, Bootstrap, Tailwind CSS, and MySQL
-- Building better workflows for print product management, pricing, and customer handling
-
-**Tech & Tools:**
-
-`Laravel` `React` `Inertia.js` `Bootstrap` `Tailwind CSS` `MySQL` `Adobe Photoshop` `Adobe Illustrator`
+$thejan = [
+    'focus' => 'Backend Development',
+    'main_stack' => ['Laravel', 'PHP', 'MySQL'],
+    'also_using' => ['React', 'Inertia.js', 'Tailwind CSS'],
+    'creative_tools' => ['Photoshop', 'Illustrator', 'Premiere Pro'],
+    'currently_learning' => ['DevOps', 'Docker', 'Linux', 'Cybersecurity'],
+    'goal' => 'Build products that are useful, secure, and scalable',
+];
+```
 
 ---
 
-### 🏡 FindLand — Sri Lankan Property Marketplace
+## 🚀 What I Do
 
-**FindLand** is a modern property marketplace concept focused on helping users discover lands, houses, and real estate opportunities in Sri Lanka.
-
-The project is designed with a strong focus on **SEO, map-based property discovery, listing management, moderation, and scalable platform architecture**.
-
-**Key areas I worked on:**
-
-- Property listing system planning and development
-- SEO-focused public pages
-- Map-first property discovery experience
-- Admin moderation and listing review concepts
-- User, organization, and listing management workflows
-- Platform settings, trust, verification, and lifecycle planning
-- Laravel-based architecture with future scalability in mind
-
-**Tech & Tools:**
-
-`Laravel` `Blade` `Tailwind CSS` `Alpine.js` `MySQL` `OpenStreetMap` `Google Maps Planning` `SEO`
+- Build backend systems and APIs with Laravel
+- Design database-driven business applications
+- Develop admin dashboards and management platforms
+- Create secure role and permission architectures
+- Build scalable SaaS-style foundations
+- Improve business workflows through automation
+- Design branding, promotional artwork, and digital content
 
 ---
 
 ## 🧠 Current Focus
 
-- Building production-grade Laravel applications
-- Improving advanced React/Inertia admin dashboards
-- Designing scalable SaaS-style systems
-- Learning deeper cybersecurity and ethical hacking concepts
-- Improving DevOps, Docker, Linux, and deployment skills
-- Creating reusable UI components and developer tools
-- Combining design + software engineering to build better digital products
+- Advanced Laravel application architecture
+- Service layers, policies, permissions, and audit logging
+- Secure authentication and authorization
+- SaaS subscriptions and entitlement management
+- Performance optimization and database design
+- Docker, Linux, deployment, and DevOps workflows
+- AI-assisted development and business automation
 
 ---
 
-## 🎓 Education
+## 🛠️ Technology Stack
 
-| Qualification | Institution | Period | Notes |
-|---------------|-------------|--------|-------|
-| **HND in Computing** | ESOFT Metro Campus | Jan 2024 – Present | Completed and submitted multiple modules including Programming, Networking, Database, SDLC, Web Design, Security, and Professional Practice. |
-| **Certificate in Computing** | Intech Institute | 2023 | Completed successfully |
-| **G.C.E. Advanced Level — Biology Stream** | Sri Dheerananda Pirivena | 2022 / 2023 A/L | Biology, Chemistry, Physics, General English, General Knowledge |
-| **G.C.E. Ordinary Level** | Sri Dheerananda Pirivena | 2019 | 8 A’s and 1 B |
+### Backend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis" alt="Backend Technologies">
+</p>
 
-## 🧪 Certifications & Activities
+### Frontend
 
-- 🎖 Certificate in Computing — Intech Institute
-- 🧠 Hackathon Participant — ESOFT Metro Campus
-- 🥇 HND module distinctions and academic project experience
-- 💼 Real-world creative and development experience at Printair Advertising
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,html,css" alt="Frontend Technologies">
+</p>
 
----
+### Tools and Infrastructure
 
-## 🧠 Tech Stack & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" alt="Development Tools">
+</p>
 
-### 💻 Development
+### Creative Tools
 
-![Laravel](https://img.shields.io/badge/Laravel-E53935?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Database & Backend
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🎨 Creative Tools
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarryVishmitha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=HarryVishmitha&theme=dark" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryVishmitha&layout=compact&theme=radical" alt="Top Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,figma" alt="Creative Tools">
 </p>
 
 ---
 
-## 🌍 Languages
+## 🌟 Featured Work
 
-| Language | Proficiency |
-|----------|-------------|
-| Sinhala | Native |
-| English | Fluent |
-| Tamil | Basic |
+### 🏡 FindLand
 
----
+A map-first property marketplace built for the Sri Lankan real estate market.
 
-## 💪 Strengths
+**Key areas:**
 
-- ✅ Developer + designer mindset
-- ✅ Strong UI/UX and visual design sense
-- ✅ Laravel and full-stack development focus
-- ✅ Real-world business system thinking
-- ✅ Creative problem-solving
-- ✅ Fast learner with practical execution
-- ✅ Strong interest in cybersecurity, AI, and scalable systems
+- Property listing and moderation workflows
+- SEO-focused public listing pages
+- Map-based property discovery
+- Nearby services and location intelligence
+- Admin management and verification systems
+- Scalable Laravel architecture
 
----
+**Technologies**
 
-## 🎯 Current Goals
-
-- 🏢 Grow as a professional Laravel + full-stack developer
-- 🚀 Launch and improve real-world platforms like **FindLand**
-- 🖨️ Continue improving digital systems for **Printair**
-- 🧠 Build strong knowledge in DevOps, Docker, Linux, and cybersecurity
-- 🧩 Create reusable Laravel Blade / Tailwind component systems
-- 🤖 Continue experimenting with AI assistants and automation tools
-- 🌐 Build a strong personal portfolio and technical blog
+`Laravel` `MySQL` `Blade` `Tailwind CSS` `Alpine.js` `Maps` `SEO`
 
 ---
 
-## 🎮 Interests
+### 💼 Hire.lk
 
-- 🎥 Movies, storytelling, and cinematic universes
-- ⚡ Harry Potter fan
-- 🎮 Gaming, especially Call of Duty
-- 🎨 Poster design, branding, and digital artwork
-- 🤖 AI tools, automation, and productivity systems
-- 📚 Software engineering, cybersecurity, and design learning
+A recruitment platform with advanced company, finance, subscription, and entitlement management.
 
----
+**Key areas:**
 
-## 📫 Let’s Connect
+- Dynamic pricing and subscription plans
+- Feature-based entitlement enforcement
+- Company administration
+- Job publishing and recruitment workflows
+- Admin finance and platform management
+- Permission-based architecture
 
-- 📧 Email: [vishmithathejan154@gmail.com](mailto:vishmithathejan154@gmail.com)
-- 🌐 Portfolio: Coming soon
-- 💼 Open to internships, freelance work, collaborations, and exciting software engineering opportunities
+**Technologies**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarryVishmitha&label=Profile+Views&color=brightgreen" alt="Profile views" />
-</p>
+`Laravel` `React` `Inertia.js` `Blade` `MySQL` `Tailwind CSS`
 
 ---
 
-<p align="center">
-  Made with 💻 + 🎨 by <strong>Thejan Vishmitha</strong>
-</p>
+### 💍 Wedding Planning Platform
 
-<p align="center">
-  <em>"Building things that matter, with people who care."</em>
-</p>
+A wedding management ecosystem for couples, planners, vendors, and guests.
+
+**Key areas:**
+
+- Guest and RSVP management
+- Interactive seating plans
+- Vendor marketplace
+- Budget and task management
+- Role-based wedding workspaces
+- Invitations and wedding websites
+
+**Technologies**
+
+`Laravel` `MySQL` `Blade` `Tailwind CSS` `JavaScript`
+
+---
+
+### 🖨️ Printair Business Systems
+
+Internal tools and digital solutions for a real-world printing and advertising business.
+
+**Key areas:**
+
+- Customer and quotation workflows
+- Product and pricing management
+- Internal business operations
+- Design and print-production workflows
+- Website and promotional content
+- Business process automation
+
+**Technologies**
+
+`Laravel` `Blade` `Alpine.js` `MySQL` `Bootstrap` `Tailwind CSS`
+
+---
+
+### 🏋️ PrimeX.lk — Gym Management System
+
+A gym management platform developed for **PrimeX Fitness** to simplify member administration, membership tracking, payments, attendance, and daily gym operations.
+
+**Key areas:**
+
+- Member registration and profile management
+- Membership plans and subscription tracking
+- Payment and renewal management
+- Attendance and check-in records
+- Trainer and staff management
+- Admin dashboard and reporting
+- Role-based access and secure workflows
+- Responsive member and management interfaces
+
+**Technologies**
+
+`Laravel` `Blade` `Tailwind CSS` `MySQL` `Alpine.js`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=HarryVishmitha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Thejan's GitHub Stats">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryVishmitha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=HarryVishmitha&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarryVishmitha&theme=tokyonight" alt="GitHub Contribution Summary">
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarryVishmitha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
+
+</div>
+
+---
+
+## 🎓 Education and Experience
+
+### Graphic Designer and Web Developer
+
+**Printair Advertising**  
+October 2023 – Present
+
+Working across graphic design, branding, print production, web development, internal systems, and business automation.
+
+### HND in Computing
+
+**ESOFT Metro Campus**  
+2024 – Present
+
+Studying programming, databases, networking, cybersecurity, software development, professional practice, and system design.
+
+---
+
+## 🎯 Goals
+
+- Grow as a professional Laravel and backend developer
+- Build secure and scalable SaaS platforms
+- Improve DevOps and cloud deployment knowledge
+- Contribute more to open-source projects
+- Launch production-ready digital products
+- Combine software engineering and design to create better user experiences
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:vishmithathejan154@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-vishmithathejan154-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="https://github.com/HarryVishmitha">
+  <img src="https://img.shields.io/badge/GitHub-HarryVishmitha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Design with purpose. Build with precision. Scale for the future. 🚀
+
+<sub>Crafted with code, creativity, and curiosity by Thejan Vishmitha.</sub>
+
+</div>
